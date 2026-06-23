@@ -96,7 +96,7 @@ def get_available_scripts(language):
         ],
         'en': [
             {"name": "1. Connect Twitter (X OAuth)", "value": "connect"},
-            {"name": "2. Check-in + Check session", "value": "checkin"},
+            {"name": "2. Daily Check-in", "value": "checkin"},
             {"name": "3. Auto complete quests", "value": "quest"},
             {"name": "4. Open daily packs", "value": "pack"},
             {"name": "5. Connect Wallet (Multi-chain)", "value": "connect_wallet"},
